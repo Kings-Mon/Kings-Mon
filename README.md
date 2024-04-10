@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380))
+[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)
 <h1 align="center">Hi 👋, I'm Kingshuk Mondal</h1>
 <h3 align="center">Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdnl.iconscout.com/lottie/premium/thumb/programmer-male-11348076-9111751.mp4)">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kings-mon&label=Profile%20views&color=0e75b6&style=flat" alt="kings-mon" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kings_mon" target="blank"><img src="https://img.shields.io/twitter/follow/kings_mon?logo=twitter&style=for-the-badge" alt="kings_mon" /></a> </p>
