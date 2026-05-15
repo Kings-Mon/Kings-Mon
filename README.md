@@ -14,7 +14,22 @@
 * 🌱 Currently learning **React** and building skills in **frontend development**.
 * 💌 Reach me at: **kingshukmon007@gmail.com**
 
-<br/>
+### 🛠️ Tech Stack & Tools
+
+**Languages & Core:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,ocaml" />
+</p>
+
+**Frameworks & Platforms:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+
+**Environment & Cloud:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,gcp,vscode" />
+</p>
 
 ### 🌐 Let's Connect
 
@@ -26,38 +41,10 @@
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
+## 🏆 GitHub Achievements
 
-**Languages & Core:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
-
-**Frameworks & Platforms:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-
-**Environment & Cloud:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-<br/>
-
-### 🔬 Featured Work
-
-**Early Forestfire Smoke Detection System:** Implemented advanced computer vision techniques utilizing the **DINOv3** architecture and partial fine-tuning to detect early signs of wildfires.
-<br/>
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kings-mon&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="kings-mon stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kings-mon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="kings-mon langs" height="170" />
-</div>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=kings-mon&theme=tokyonight&no-frame=true&no-bg=true&title=Commits,Stars,Followers,Repositories,Experience,MultipleLang"
+  />
+</p>
