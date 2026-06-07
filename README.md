@@ -40,11 +40,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/different_perspective_007)
 
 <br/>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=kings-mon&theme=tokyonight&no-frame=true&no-bg=true&title=Commits,Stars,Followers,Repositories,Experience,MultipleLang"
-  />
-</p>
