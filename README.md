@@ -1,8 +1,6 @@
 <!-- Dynamic Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4DB6AC&height=220&section=header&text=Kingshuk%20Mondal&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kings-mon&label=Profile%20Views&color=0e75b6&style=flat" alt="kings-mon" /> </p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -13,6 +11,10 @@
 * 🤖 Specializing in **Deep Learning**, specifically **Vision Transformers (ViT)**, CNNs, and self-supervised architectures.
 * 🌱 Currently learning **React** and building skills in **frontend development**.
 * 💌 Reach me at: **kingshukmon007@gmail.com**
+
+### 👨‍💻 Recent Project
+
+[Dual-Domain Vision Transformers with Symmetric Partial-Tuning for Forest Fire Surveillance](https://github.com/Kings-Mon/Dual-Domain-Vision-Transformers-for-Forest-Fire-Surveillance)
 
 ### 🛠️ Tech Stack & Tools
 
